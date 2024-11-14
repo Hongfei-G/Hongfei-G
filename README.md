@@ -3,7 +3,6 @@
 - 👀 I’m interested in C++ and AI
 - 🌱 I’m currently learning how to write beautiful code and some tools such as git,docker,cmake... 
 - 📫 my gmail is guohongfei617@gmail.com 
-- 😄 Pronouns: You can call me Guo Mu, i like it.
 - ⚡ Fun fact: I am studying in a university, i am hungry for knowledge and learn from others.
 
 <!---
